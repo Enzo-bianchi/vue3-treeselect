@@ -9361,7 +9361,7 @@
                     external_commonjs_vue_commonjs2_vue_root_Vue_[
                       "resolveComponent"
                     ]
-                  )("transition-group"),
+                  )("TransitionGroup"),
                   {
                     class: "vue-treeselect__multi-value",
                     tag: "div",
@@ -10016,7 +10016,7 @@
                           external_commonjs_vue_commonjs2_vue_root_Vue_[
                             "resolveComponent"
                           ]
-                        )("transition"),
+                        )("Transition"),
                         {
                           name: "vue-treeselect__option-arrow--prepare",
                           appear: true,
@@ -10367,7 +10367,7 @@
                           external_commonjs_vue_commonjs2_vue_root_Vue_[
                             "resolveComponent"
                           ]
-                        )("transition"),
+                        )("Transition"),
                         {
                           name: "vue-treeselect__list--transition",
                         },
@@ -10925,7 +10925,7 @@
                       external_commonjs_vue_commonjs2_vue_root_Vue_[
                         "resolveComponent"
                       ]
-                    )("transition"),
+                    )("Transition"),
                     {
                       name: "vue-treeselect__menu--transition",
                     },
